@@ -3,7 +3,6 @@
 *.csv
 *.out
 *.png
-*.jpg
 *.pyc
 old/
 mnist/
