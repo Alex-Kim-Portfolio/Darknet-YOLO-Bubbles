@@ -1,2 +1,2 @@
-/cotent/darknet/data/bubble/00059669.jpg
-/cotent/darknet/data/bubble/00059670.jpg
+/cotent/Darknet-YOLO-Bubbles/data/bubble/00059669.jpg
+/cotent/Darknet-YOLO-Bubbles/data/bubble/00059670.jpg
