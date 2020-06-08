@@ -1,0 +1,5 @@
+classes= 1
+train  = cfg/mukai-train.txt
+valid  = cfg/mukai-test.txt
+names = data/mukai.names
+backup = /content/gdrive/My\ Drive/mukai
