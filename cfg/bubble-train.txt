@@ -1,8 +1,8 @@
-/cotent/Darknet-YOLO-Bubbles/data/bubble/00059671.jpg
-/cotent/Darknet-YOLO-Bubbles/data/bubble/00059672.jpg
-/cotent/Darknet-YOLO-Bubbles/data/bubble/00059673.jpg
-/cotent/Darknet-YOLO-Bubbles/data/bubble/00059674.jpg
-/cotent/Darknet-YOLO-Bubbles/data/bubble/00059675.jpg
-/cotent/Darknet-YOLO-Bubbles/data/bubble/00059676.jpg
-/cotent/Darknet-YOLO-Bubbles/data/bubble/00059677.jpg
-/cotent/Darknet-YOLO-Bubbles/data/bubble/00059678.jpg
+/content/Darknet-YOLO-Bubbles/data/bubble/00059671.jpg
+/content/Darknet-YOLO-Bubbles/data/bubble/00059672.jpg
+/content/Darknet-YOLO-Bubbles/data/bubble/00059673.jpg
+/content/Darknet-YOLO-Bubbles/data/bubble/00059674.jpg
+/content/Darknet-YOLO-Bubbles/data/bubble/00059675.jpg
+/content/Darknet-YOLO-Bubbles/data/bubble/00059676.jpg
+/content/Darknet-YOLO-Bubbles/data/bubble/00059677.jpg
+/content/Darknet-YOLO-Bubbles/data/bubble/00059678.jpg
