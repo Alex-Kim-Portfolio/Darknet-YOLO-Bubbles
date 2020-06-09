@@ -2,6 +2,7 @@
 *.dSYM
 *.out
 *.pyc
+*.fuck
 old/
 mnist/
 caffe/
